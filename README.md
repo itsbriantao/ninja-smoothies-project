@@ -1,6 +1,10 @@
 # ninja-smoothies-project
 
 > A Vue.js project
+ 
+A personal project built using Vue.js. This is a web app to store smoothie recipes, storage and hosting provided by Firebase.
+
+https://udemy-ninja-smoothies-7fde5.web.app/
 
 ## Build Setup
 
